@@ -1,0 +1,2 @@
+0 = hands
+1 = pistol
